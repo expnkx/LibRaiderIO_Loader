@@ -1,4 +1,4 @@
 package-as: LibRaiderIO_Loader
 
-dependencies:
+required-dependencies:
 	- RaiderIO
